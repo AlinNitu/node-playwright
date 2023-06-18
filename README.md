@@ -1,6 +1,4 @@
-# node-playwright
-
-A small testing framework using playwright and typescript.
+## Small testing framework using playwright and typescript
 
 ### Setup:
 
